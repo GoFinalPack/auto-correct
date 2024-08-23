@@ -23,4 +23,10 @@ func TestCorrect(T *testing.T) {
 
 	text = "pfinalclub测试"
 	fmt.Println(a.Correct(text))
+
+	text = "json测试" //  JSON 测试
+	fmt.Println(a.Correct(text))
+
+	text = "Mysql 测试一下" //  MySQL 测试一下
+	fmt.Println(a.Correct(text))
 }

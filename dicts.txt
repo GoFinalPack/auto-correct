@@ -29,6 +29,8 @@ php:PHP
 golang:Golang
 go:Golang
 Go:Golang
+mysql:MySQL
+Mysql:MySQL
 pear:Pear
 laravel:Laravel
 lumen:Lumen
