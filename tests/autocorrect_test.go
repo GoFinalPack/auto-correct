@@ -18,6 +18,9 @@ func TestCorrect(T *testing.T) {
 
 	a := auto_correct.AutoCorrect{}
 	a.Init()
-	text := "php是世界上最好的语言，之一"
+	text := "golang 使用中文测试"
+	fmt.Println(a.Correct(text))
+
+	text = "pfinalclub测试"
 	fmt.Println(a.Correct(text))
 }

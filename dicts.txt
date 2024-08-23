@@ -26,6 +26,9 @@ passenger:Passenger
 nodejs:Node.js
 npm:NPM
 php:PHP
+golang:Golang
+go:Golang
+Go:Golang
 pear:Pear
 laravel:Laravel
 lumen:Lumen
@@ -177,3 +180,5 @@ vpn:VPN
 arm:ARM
 cpu:CPU
 pdf:PDF
+pfinal:PFinal
+pfinalclub:PFinal Club
